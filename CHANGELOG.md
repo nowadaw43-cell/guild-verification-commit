@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-06T19:59:58.410Z
-Commit: Correct typo in configuration file
+Timestamp: 2026-03-06T19:59:59.729Z
+Commit: Add export functionality for reports
